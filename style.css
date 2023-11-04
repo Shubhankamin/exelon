@@ -154,6 +154,9 @@
     background-color: brown;
 
 }
+button:hover{
+    cursor: pointer;
+}
 #singer{
     position: absolute;
     bottom: 180px;
